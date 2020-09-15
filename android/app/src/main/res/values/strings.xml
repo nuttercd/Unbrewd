@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Unbrewd</string>
+    <string name="title_activity_main">Unbrewd</string>
+    <string name="package_name">com.unbrewd.app</string>
+    <string name="custom_url_scheme">com.unbrewd.app</string>
+</resources>

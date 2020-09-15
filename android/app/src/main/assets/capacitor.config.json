@@ -1,0 +1,12 @@
+{
+  "appId": "com.unbrewd.app",
+  "appName": "Unbrewd",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
