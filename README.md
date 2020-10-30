@@ -17,5 +17,9 @@ To run the provided example, can use serve command:
 npx cap serve
 ```
 
-
+Steps for setting up:
+npm install --save @capacitor/cli @capacitor/core
+npm run build
 npx cap update android
+
+How to run: 
