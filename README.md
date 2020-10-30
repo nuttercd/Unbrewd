@@ -22,4 +22,4 @@ npm install --save @capacitor/cli @capacitor/core
 npm run build
 npx cap update android
 
-How to run: 
+How to run: npx cap open android
