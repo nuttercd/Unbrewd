@@ -18,8 +18,8 @@ npx cap serve
 ```
 
 Steps for setting up:
-npm install --save @capacitor/cli @capacitor/core
-npm run build
-npx cap update android
+```npm install --save @capacitor/cli @capacitor/core```
+```npm run build```
+```npx cap update android```
 
-How to run: npx cap open android
+How to run: ```npx cap open android```
