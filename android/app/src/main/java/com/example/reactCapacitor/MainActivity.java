@@ -1,4 +1,4 @@
-package com.unbrewd.app;
+package com.example.reactCapacitor;
 
 import android.os.Bundle;
 

@@ -16,3 +16,6 @@ To run the provided example, can use serve command:
 ```bash
 npx cap serve
 ```
+
+
+npx cap update android
